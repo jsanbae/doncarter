@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":258:{a:2:{s:7:"defects";a:2:{s:24:"Test::testContactoValido";i:3;s:32:"TestContacto::testContactoValido";i:3;}s:5:"times";a:3:{s:24:"Test::testContactoValido";d:0.002;s:34:"TestContacto::testContactoInvalido";d:0.001;s:32:"TestContacto::testContactoValido";d:0;}}}
