@@ -1,7 +1,7 @@
 # Change Log
 
-All notable changes to this publication will be documented in this file.
+Todos los cambios se deberían ver reflejados en este registro.
 
-## 1.0.0 - 2020-11-05
+## 0.1 - 2020-11-10
 
 First stable release.
