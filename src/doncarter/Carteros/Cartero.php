@@ -36,7 +36,7 @@ class Cartero implements ICartero {
 		if (count($this->sobre->getBcc())) {
 			$bccArray = [];
 			foreach ($this->sobre->getBcc() as $bcc) {
-				$ccArray[] = $bcc->getFormatRFC2822();
+				$bccArray[] = $bcc->getFormatRFC2822();
 			}
 			$headers['bcc'] = implode($bccArray, ',');
 		}	
