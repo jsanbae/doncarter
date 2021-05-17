@@ -1,4 +1,4 @@
-# DonCarter ![Packagist PHP Version Support](https://img.shields.io/packagist/php-v/jsanbae/doncarter) ![GitHub](https://img.shields.io/github/license/jsan5709/doncarter)
+# DonCarter ![Packagist PHP Version Support](https://img.shields.io/packagist/php-v/jsanbae/doncarter) ![GitHub](https://img.shields.io/github/license/jsan5709/doncarter) ![Travis (.org)](https://img.shields.io/travis/jsan5709/doncarter)
 
 Es una interfaz abstracta muy simple para enviar correos en PHP, que nació como un ejercicio de abstracción en POO.
 
