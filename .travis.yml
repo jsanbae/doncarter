@@ -1,0 +1,11 @@
+language: php
+php: 
+  - 7.2
+  - 7.4
+  - 8.0
+
+before-script:
+ - composer install --no-intereaction
+
+script:
+  - vendor/bin/phpunit
