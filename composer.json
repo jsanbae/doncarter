@@ -2,6 +2,7 @@
     "name": "jsanbae/doncarter",
     "description": "Una interfaz super simple para enviar correos",
     "type": "library",
+    "version": "0.1.0",
     "keywords": ["email", "smtp"],
     "license": "MIT",
     "authors": [
